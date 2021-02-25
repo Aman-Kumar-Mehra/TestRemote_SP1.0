@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "TestRemote_SP1.0"
